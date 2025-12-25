@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ & VS Code
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Fichiers compilés et système
+out/
+.DS_Store
+Thumbs.db
+
+# Fichier d'état local 
+.monitor_state.json
